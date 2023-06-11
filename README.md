@@ -7,10 +7,10 @@
 
 
 - Subpocket_to_Subpocket edges (~25GB):
+  Baidu Netdisk: [GraphEdges2 (passwd: xe8r)](https://pan.baidu.com/s/1LSiE3rWMX9rwiJIMLuWbyQ  )
   ```
   [ [node, node, weight],  [node, node, weight],  [node, node, weight], ...... ] Weight = Similarity（-0.4<=Weight <=0）
   ```
-  Baidu Netdisk: [GraphEdges2 (passwd: xe8r)](https://pan.baidu.com/s/1LSiE3rWMX9rwiJIMLuWbyQ  )
 
 
 
