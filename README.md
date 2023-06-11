@@ -3,12 +3,14 @@
 ## Graph files
 
 - Index, Molecular_to_Motif edges, Motif_to_Subpocket edges (~4MB):
-  [GraphEdges1 (passwd: 2eu9)](https://pan.baidu.com/s/1zOaDJI6uX7DHTk2EP5pQ1g )
+  Baidu Netdisk: [GraphEdges1 (passwd: 2eu9)](https://pan.baidu.com/s/1zOaDJI6uX7DHTk2EP5pQ1g )
 
 
 - Subpocket_to_Subpocket edges (~25GB):
-  1. Use Baidu Netdisk: [GraphEdges2 (passwd: xe8r)](https://pan.baidu.com/s/1LSiE3rWMX9rwiJIMLuWbyQ  )
-  2. Use scp: 
+  ```
+  [ [node, node, weight],  [node, node, weight],  [node, node, weight], ...... ] Weight = Similarity（-0.4<=Weight <=0）
+  ```
+  Baidu Netdisk: [GraphEdges2 (passwd: xe8r)](https://pan.baidu.com/s/1LSiE3rWMX9rwiJIMLuWbyQ  )
 
 
 
